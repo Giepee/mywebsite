@@ -1,0 +1,26 @@
+
+#hero {
+    background-color: navy;
+    color: white;
+} 
+#hero h1 {
+    color: white;
+}
+#hero img {
+    border: 7px solid white;
+    border-radius: 40px;
+}
+
+#footer {
+    background-color: navy;
+}
+
+#footer> *{
+    background-color: navy;
+    color: white;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
