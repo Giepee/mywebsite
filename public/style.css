@@ -25,3 +25,8 @@ body{background:#0d100d;color:#eef3ea}
 :focus-visible{outline-color:#b0f074}
 
 .portrait-frame img{object-fit:cover;object-position:center 8%}
+.social-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:25px}
+.social-links a{display:inline-flex;align-items:center;gap:11px;padding:9px 13px;border:1px solid #43513d;border-radius:4px;color:#dce8d5;font-size:11px;font-weight:600;text-decoration:none;transition:background .2s,border-color .2s,color .2s}
+.social-links a span{color:#a5e86b}
+.social-links a:hover{border-color:#a5e86b;background:#a5e86b;color:#11170e}
+.social-links a:hover span{color:#11170e}
