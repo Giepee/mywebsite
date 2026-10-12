@@ -30,3 +30,7 @@ body{background:#0d100d;color:#eef3ea}
 .social-links a span{color:#a5e86b}
 .social-links a:hover{border-color:#a5e86b;background:#a5e86b;color:#11170e}
 .social-links a:hover span{color:#11170e}
+
+.contact-decoration {
+display: none !important;
+}
