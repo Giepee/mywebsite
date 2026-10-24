@@ -103,3 +103,7 @@
 .project-card .project-info{align-items:center;margin-top:-34px;padding-top:17px;border-top:1px solid #354031;border-radius:5px 5px 0 0}
 .project-card .project-description{max-width:none;margin-top:0;margin-bottom:0;padding-top:8px;padding-bottom:17px;border-bottom:1px solid #354031;border-radius:0 0 5px 5px;font-size:12px}
 @media(max-width:600px){.project-image{height:auto;aspect-ratio:2.08/1}}
+
+.contact-decoration {
+display: none !important;
+}
